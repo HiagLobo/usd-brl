@@ -1,0 +1,2 @@
+# usd-brl
+USD/BRL
