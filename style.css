@@ -1,0 +1,22 @@
+.exchange-rate-container {
+  background-color: #f5f5f5;
+  padding: 20px;
+  margin: 20px auto;
+  width: 400px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+h2 {
+  margin-top: 0;
+}
+
+p {
+  margin: 10px 0;
+}
+
+#exchangeRate {
+  font-size: 24px;
+  font-weight: bold;
+}
